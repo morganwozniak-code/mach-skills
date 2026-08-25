@@ -5,7 +5,7 @@ allowed-tools: []
 enabled: true
 user-invocable: true
 disable-model-invocation: false
-license: UNLICENSED
+license: MIT
 compatibility: droid
 version: 1.0.0
 metadata:

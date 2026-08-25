@@ -5,6 +5,8 @@
   "author": {
     "name": "Mach Platform Team"
   },
-  "license": "UNLICENSED",
+  "homepage": "https://github.com/morganwozniak-code/mach-skills",
+  "repository": "https://github.com/morganwozniak-code/mach-skills",
+  "license": "MIT",
   "keywords": ["onboarding", "company-wide", "ai-usage"]
 }

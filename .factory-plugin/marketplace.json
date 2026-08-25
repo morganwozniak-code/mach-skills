@@ -1,6 +1,6 @@
 {
   "name": "mach-skills",
-  "description": "Mach's internal catalog of approved Droid skills, organized by department. Vendor-agnostic content with a thin Factory-compatible wrapper.",
+  "description": "Mach's public catalog of Droid skills, organized by department. Vendor-agnostic content with a thin Factory-compatible wrapper. Company-wide skills are open for anyone to install; department skills may be added privately over time.",
   "owner": {
     "name": "Mach Platform Team",
     "email": "platform@mach.example"
