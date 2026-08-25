@@ -88,7 +88,7 @@ session or asking it to fetch something:
 ### 6. Where to find department skills
 
 Browse `/plugins` inside Droid to see what's installed, or look at the `mach-skills`
-repo directly (department folders under `plugns/`) to see what exists before asking
+repo directly (department folders under `plugins/`) to see what exists before asking
 your platform team to build something new.
 
 ### 7. Getting help
