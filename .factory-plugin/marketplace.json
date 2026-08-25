@@ -1,0 +1,16 @@
+{
+  "name": "mach-skills",
+  "description": "Mach's internal catalog of approved Droid skills, organized by department. Vendor-agnostic content with a thin Factory-compatible wrapper.",
+  "owner": {
+    "name": "Mach Platform Team",
+    "email": "platform@mach.example"
+  },
+  "plugins": [
+    {
+      "name": "company-wide",
+      "description": "Cross-department skills every employee should have: how to use Factory/AI, prompting basics, escalation paths.",
+      "source": "./plugins/company-wide",
+      "category": "company-wide"
+    }
+  ]
+}

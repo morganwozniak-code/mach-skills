@@ -1,0 +1,10 @@
+{
+  "name": "company-wide",
+  "description": "Cross-department skills every Mach employee should have, starting with how to use Factory/Droid effectively.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mach Platform Team"
+  },
+  "license": "UNLICENSED",
+  "keywords": ["onboarding", "company-wide", "ai-usage"]
+}
